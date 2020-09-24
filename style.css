@@ -10,6 +10,8 @@
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
 
+
+/* Child Theme */
 .home .places_type_2_listings_no {
     padding: 0px 9px;
     background: transparent;
@@ -31,4 +33,32 @@
 
 .home .places_list_1 .shortcode-col.listing_wrapper {
     min-width: auto;
+}
+
+/* Easy Social Share Buttons */
+.essbfc-profiles-columns ul li a .essbfc-network .essbfc-profile-cta_text, .essbfc-profiles-cta ul li a .essbfc-network .essbfc-profile-cta_text {
+    font-size: 16px!important;
+}
+
+/* Footer */
+.textwidget {
+    font-size: 16px!important;
+    text-align: justify;
+    line-height: 1.6em;
+}
+
+#colophon .contact_sidebar_wrap p {
+    font-size: 16px!important;
+}
+
+#colophon a, #colophon li a {
+    font-size: 16px!important;
+}
+
+#primary .price_label, #colophon .price_label, #colophon .contact_sidebar_wrap p {
+    font-size: 16px!important;
+}
+
+.widget_latest_price {
+    font-size: 16px!important;
 }
