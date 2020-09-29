@@ -35,6 +35,28 @@
     min-width: auto;
 }
 
+/* General */
+.single-content, p, .single-estate_property .listing_detail .price_label {
+    font-size: 18px!important;
+}
+
+p {
+    line-height: 24px!important;
+}
+
+/* Header */ 
+#access ul ul a {
+    font-size: 16px!important;
+}
+
+#access ul ul {
+    padding: 15px 0;
+}
+
+#access ul ul li {
+    padding: 0 15px;
+}
+
 /* Easy Social Share Buttons */
 .essbfc-profiles-columns ul li a .essbfc-network .essbfc-profile-cta_text, .essbfc-profiles-cta ul li a .essbfc-network .essbfc-profile-cta_text {
     font-size: 16px!important;
@@ -60,5 +82,28 @@
 }
 
 .widget_latest_price {
+    font-size: 16px!important;
+}
+
+#colophon .subfooter_menu a {
+    font-size: 13px!important;
+    padding-bottom: 0;
+}
+
+/* Prices */
+.price_area, .widget_latest_price, .listing_unit_price_wrapper, .featured_property.featured_property_type3 .featured_secondline .featured_prop_price, .featured_property.featured_property_type3 .featured_secondline .featured_prop_price .price_label {
+    color: #1098f7!important;
+    font-weight: 700!important;
+}
+
+/* Messages */
+.alert-message, .login-alert {
+    background-color: #FF9001!important;
+    font-size: 16px!important;
+    line-height: 24px!important;
+}
+
+/* Forms */
+input[type=text], input[type=password], input[type=email], input[type=url], input[type=number], textarea {
     font-size: 16px!important;
 }
