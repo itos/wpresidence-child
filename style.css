@@ -116,3 +116,35 @@ label {
 input[type=text], input[type=password], input[type=email], input[type=url], input[type=number], textarea {
     font-size: 16px!important;
 }
+
+/* Sidebar */
+.sidebar_filter_menu {
+    font-size: 16px;
+}
+
+/* Blog */
+.blog2v .read_more {
+    color: #fff;
+    font-size: 16px;
+    background-color: rgb(0,115,225);
+    border-radius: 2px;
+    padding: 8px 15px;
+}
+
+.listing_details.the_grid_view {
+    padding-bottom: 45px;
+}
+
+.meta-element {
+    display: none;
+}
+
+.prop_social_single {
+    display: none;
+}
+
+/* Agents */
+
+.agent_position {
+    font-size: 16px;
+}
