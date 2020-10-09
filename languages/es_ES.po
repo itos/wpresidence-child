@@ -4234,11 +4234,11 @@ msgstr "Resultados de la búsqueda"
 
 #: templates/blog_unit.php:59
 msgid "Continue Reading"
-msgstr "Continuar leyendo"
+msgstr "Continuar Leyendo"
 
 #: templates/blog_unit2.php:104
 msgid "Continue reading"
-msgstr "Continuar leyendo"
+msgstr "Continuar Leyendo"
 
 #: templates/breadcrumbs.php:27
 msgid "Home"
