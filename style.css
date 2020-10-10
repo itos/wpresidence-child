@@ -148,3 +148,58 @@ input[type=text], input[type=password], input[type=email], input[type=url], inpu
 .agent_position {
     font-size: 16px;
 }
+
+/* Page */
+.page-template .breadcrumb_container, .breadcrumb_container {
+    min-height: 10px;
+    margin-bottom: 10px;
+}
+
+/* Properties */
+.propery_price4_grid {
+    color: #1098f7!important;
+}
+.inforoom_unit_type4 span, .infobath_unit_type4 span, .infosize_unit_type4 span {
+    color: #1098f7!important;
+}
+
+.propery_price4_grid span {
+    color: #1098f7!important;
+}
+
+.featured_div {
+    background-color: #0abff7;
+}
+
+.listing_wrapper.col-md-12.property_unit_type4 .inforoom_unit_type4, .listing_wrapper.col-md-12.property_unit_type4 .infobath_unit_type4, .listing_wrapper.col-md-12.property_unit_type4 .infosize_unit_type4 {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.listing_wrapper.col-md-12.property_unit_type4 .property_listing .listing_unit_price_wrapper {
+    font-size: 18px;
+}
+ 
+.action_tag_wrapper {
+    font-size: 14px;
+}
+
+.featured_div {
+    max-width: 92px;
+    font-size: 14px;
+    padding: 0 14px;
+}
+
+
+.property_listing_blog, .property_listing {
+    font-size: 16px;
+}
+
+.property_listing_details4_grid_view {
+    font-size: 16px;
+
+}
+
+.compare_legend_head_in {
+    font-size: 14px;
+}
