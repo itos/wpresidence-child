@@ -216,11 +216,11 @@ msgstr "Tipo: "
 
 #: compare_listings.php:121
 msgid "city"
-msgstr "ciudad"
+msgstr "Ciudad"
 
 #: compare_listings.php:122
 msgid "area"
-msgstr "área"
+msgstr "Área"
 
 #: compare_listings.php:123
 msgid "zip"
@@ -228,23 +228,23 @@ msgstr "cp"
 
 #: compare_listings.php:124
 msgid "size"
-msgstr "tamaño"
+msgstr "Tamaño"
 
 #: compare_listings.php:125
 msgid "lot size"
-msgstr "tamaño del lote"
+msgstr "Tamaño del lote"
 
 #: compare_listings.php:126
 msgid "rooms"
-msgstr "habitaciones"
+msgstr "Habitaciones"
 
 #: compare_listings.php:127
 msgid "bedrooms"
-msgstr "habitaciones"
+msgstr "Habitaciones"
 
 #: compare_listings.php:128
 msgid "bathrooms"
-msgstr "baños"
+msgstr "Baños"
 
 #: compare_listings.php:129 libs/help_functions.php:4899
 msgid "Energy Index"
@@ -4840,7 +4840,7 @@ msgstr "Ver resultados"
 #: templates/property_cards_templates/property_card_details_type4.php:18
 #: templates/property_cards_templates/property_card_details_type4.php:35
 msgid "Baths"
-msgstr "Piscina"
+msgstr "Baños"
 
 #: templates/property_cards_templates/property_card_details_type1.php:18
 msgid "ID"
@@ -4848,12 +4848,12 @@ msgstr "ID"
 
 #: templates/property_cards_templates/property_card_details_type3.php:21
 msgid "Beds"
-msgstr ""
+msgstr "Camas"
 
 #: templates/property_cards_templates/property_card_details_type4.php:22
 #: templates/property_slider_shortcode.php:70
 msgid "Size"
-msgstr "tamaño"
+msgstr "Tamaño"
 
 #: templates/property_details_modal.php:28
 msgid "Contact Agent"

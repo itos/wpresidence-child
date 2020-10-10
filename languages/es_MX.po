@@ -2573,11 +2573,11 @@ msgstr "precio de la propiedad"
 
 #: libs/searchfunctions.php:1921 libs/searchfunctions.php:2080
 msgid "property size"
-msgstr "tamaño de la propiedad"
+msgstr "Tamaño de la propiedad"
 
 #: libs/searchfunctions.php:1922 libs/searchfunctions.php:2081
 msgid "property lot size"
-msgstr "tamaño del lote propiedad"
+msgstr "Tamaño del lote propiedad"
 
 #: libs/searchfunctions.php:1923 libs/searchfunctions.php:2082
 msgid "property rooms"
@@ -2585,11 +2585,11 @@ msgstr "habitaciones de propiedad"
 
 #: libs/searchfunctions.php:1924 libs/searchfunctions.php:2083
 msgid "property bedrooms"
-msgstr "dormitorios"
+msgstr "Dormitorios"
 
 #: libs/searchfunctions.php:1925 libs/searchfunctions.php:2084
 msgid "property bathrooms"
-msgstr "baños"
+msgstr "Baños"
 
 #: libs/searchfunctions.php:1926 libs/searchfunctions.php:2085
 msgid "property address"

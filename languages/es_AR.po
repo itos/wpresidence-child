@@ -232,7 +232,7 @@ msgstr "tamaño"
 
 #: compare_listings.php:125
 msgid "lot size"
-msgstr "tamaño del lote"
+msgstr "Tamaño del lote"
 
 #: compare_listings.php:126
 msgid "rooms"
@@ -4840,7 +4840,7 @@ msgstr "Ver resultados"
 #: templates/property_cards_templates/property_card_details_type4.php:18
 #: templates/property_cards_templates/property_card_details_type4.php:35
 msgid "Baths"
-msgstr "Piscina"
+msgstr "Baños"
 
 #: templates/property_cards_templates/property_card_details_type1.php:18
 msgid "ID"

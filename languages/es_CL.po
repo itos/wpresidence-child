@@ -226,7 +226,7 @@ msgstr "tamaño"
 
 #: compare_listings.php:125
 msgid "lot size"
-msgstr "tamaño del lote"
+msgstr "Tamaño del lote"
 
 #: compare_listings.php:126
 msgid "rooms"
