@@ -53,6 +53,10 @@ label {
     line-height: 24px!important;
 }
 
+.margin-bottom-0 {
+    margin-bottom: 0!important;
+}
+
 /* Header */ 
 #access ul ul a {
     font-size: 16px!important;
@@ -202,4 +206,76 @@ input[type=text], input[type=password], input[type=email], input[type=url], inpu
 
 .compare_legend_head_in {
     font-size: 14px;
+}
+
+/* Contact */
+.contact_page_company_details .contact_detail span {
+    width: 75px;
+}
+
+.contact_detail {
+    font-size: 18px;
+}
+
+.company_headline .header_social, .contact_page_company_details {
+    display: none;
+}
+
+.company_headline_content {
+    margin: 0;
+}
+
+.shortcode_contact_form textarea, .shortcode_contact_form input {
+    border-width: 1px;
+}
+
+.shortcode_contact_form {
+    max-width: 700px!important;
+}
+
+/* Contact Form 7 */
+.wpcf7-form p {
+    margin-bottom: 0;
+}
+
+.wpcf7-form-control {
+    font-size: 16px!important;
+}
+
+.wpcf7-form-control-wrap textarea {
+    border: 1px solid #f0f0f0;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color: #8593a9 !important;
+    opacity: 1;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #8593a9 !important;
+    opacity: 1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #8593a9 !important;
+    opacity: 1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #8593a9 !important;
+    opacity: 1;
+}
+
+/* Visual Composer */
+.vc_column_container {
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 10px 31px 0 rgba(7,152,255,0.09);
+    float: left;
+    width: 100%;
+    display: inline;
+    border-radius: 2px;
+    max-width: 760px;
+}
+
+.vc_column_container>.vc_column-inner {
+    padding-left: 30px!important;
+    padding-right: 30px!important;
 }
