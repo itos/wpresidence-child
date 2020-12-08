@@ -246,6 +246,22 @@ input[type=text], input[type=password], input[type=email], input[type=url], inpu
     border: 1px solid #f0f0f0;
 }
 
+.wpcf7-form label {
+    width:100% !important;
+    margin-bottom: 0px!important;
+}
+
+.wpcf7-form input[type="submit"] {
+    width: 100%;
+    margin-top: 10px;
+    font-size: 16px!important;
+    padding: 16px 26px!important;
+}
+
+.wpcf7-form textarea {
+    height:110px !important;
+}
+
 ::-webkit-input-placeholder { /* WebKit browsers */
     color: #8593a9 !important;
     opacity: 1;
